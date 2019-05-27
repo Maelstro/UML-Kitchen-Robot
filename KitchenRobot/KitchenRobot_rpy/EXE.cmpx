@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>C++</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 5f10dee7-37a6-4065-8603-5a4bbcdf00f0</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">EXE</_name>
+			<_modifiedTimeWeak type="a">5.23.2019::15:37:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::15:37:52</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 285b76b0-33cc-4857-b611-46e92bf82ff1</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\KitchenRobot.sbsx</_hfilename>
+							<_hname type="a">KitchenRobot</_hname>
+							<_hid type="a">GUID 0faf5446-e9b7-4613-a3ed-53533f6b2e93</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">5.23.2019::15:37:52</weakCGTime>
+			<strongCGTime type="a">5.23.2019::15:36:46</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 1c5cc58a-3d53-48ae-8449-49777437debe</value>
+				<value>GUID 285b76b0-33cc-4857-b611-46e92bf82ff1</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 1c5cc58a-3d53-48ae-8449-49777437debe</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">5.23.2019::13:21:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::13:21:7</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 285b76b0-33cc-4857-b611-46e92bf82ff1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Host</_name>
+			<_modifiedTimeWeak type="a">5.23.2019::15:38:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::15:38:25</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\KitchenRobot.sbsx</_hfilename>
+							<_hsubsystem type="a">KitchenRobot</_hsubsystem>
+							<_hname type="a">KitchenRobotBuilder</_hname>
+							<_hid type="a">GUID f3d93190-642b-40fb-be1e-8d7b99cd3b55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">5.23.2019::15:38:25</weakCGTime>
+			<strongCGTime type="a">5.23.2019::15:38:6</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 3ed56483-7b58-4df4-a001-2fadeade38a7</value>
+				<value>GUID 5dda7f33-3809-4b03-aeaa-fc4adc980133</value>
+				<value>GUID 205796de-375c-4b74-80cd-1f3a18f00ec9</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 3ed56483-7b58-4df4-a001-2fadeade38a7</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::15:37:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">EXE.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 5dda7f33-3809-4b03-aeaa-fc4adc980133</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::15:37:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">MainEXE</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IFolder type="e">
+			<_id type="a">GUID 205796de-375c-4b74-80cd-1f3a18f00ec9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Host</_name>
+			<_modifiedTimeWeak type="a">5.23.2019::15:37:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.23.2019::15:37:52</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
